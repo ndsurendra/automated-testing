@@ -1,0 +1,14 @@
+{
+  "name": "e2e-automation",
+  "version": "1.0.0",
+  "description": "learning automation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surendra",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.4.0"
+  }
+}
